@@ -1,0 +1,17 @@
+E:\Average unit shipped by employee\CarInventory\CarInventory\bin\Debug\net6.0-windows\CarInventory.exe
+E:\Average unit shipped by employee\CarInventory\CarInventory\bin\Debug\net6.0-windows\CarInventory.deps.json
+E:\Average unit shipped by employee\CarInventory\CarInventory\bin\Debug\net6.0-windows\CarInventory.runtimeconfig.json
+E:\Average unit shipped by employee\CarInventory\CarInventory\bin\Debug\net6.0-windows\CarInventory.dll
+E:\Average unit shipped by employee\CarInventory\CarInventory\bin\Debug\net6.0-windows\CarInventory.pdb
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.csproj.AssemblyReference.cache
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.Form1.resources
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.csproj.GenerateResource.cache
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.AssemblyInfoInputs.cache
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.AssemblyInfo.cs
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.csproj.CoreCompileInputs.cache
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.dll
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\refint\CarInventory.dll
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.pdb
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\CarInventory.genruntimeconfig.cache
+E:\Average unit shipped by employee\CarInventory\CarInventory\obj\Debug\net6.0-windows\ref\CarInventory.dll
